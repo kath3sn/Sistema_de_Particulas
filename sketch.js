@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(25, 25, 25, 140);
+  background(25, 25, 25, 150);
   /* for (const [index, elemento] of sp.entries()) {
     elemento.update();
     elemento.display();
